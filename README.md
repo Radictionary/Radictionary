@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RK129
-- 👀 I’m interested in ... Coding👌
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... website devolopment and python
-- 📫 How to reach me ... don't👍
+- 👀 I’m interested in ... Backend development
+- 🌱 I’m currently learning ... Backend Website develpment using python | Docker 
+- 💞️ I’m looking to collaborate on ... website devolopment, python, and javascript 
 
 <!---
 RK129/RK129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
