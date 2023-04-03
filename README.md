@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radictionary
-- Proud self hoster, and technology ethusiast
+- Proud self hoster, and technology enthusiast 
 
 <!---
 RK129/RK129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
