@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Radictionary
-- 👀 I’m interested in ... Backend development
-- 🌱 I’m currently learning ... Backend Website develpment using golang | Docker 
-- 💞️ I’m looking to collaborate on ... website devolopment, python, and javascript 
+- Proud self hoster, and technology ethusiast
 
 <!---
 RK129/RK129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
