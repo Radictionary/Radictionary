@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radictionary
 - 👀 I’m interested in ... Backend development
-- 🌱 I’m currently learning ... Backend Website develpment using python | Docker 
+- 🌱 I’m currently learning ... Backend Website develpment using golang | Docker 
 - 💞️ I’m looking to collaborate on ... website devolopment, python, and javascript 
 
 <!---
