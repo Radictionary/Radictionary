@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [radinworld.com](radinworld.com)
 
-- 📫 How to reach me **radin.msft@gmail.com**
+- 📫 How to reach me **radin@radinworld.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
