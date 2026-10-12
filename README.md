@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [radinworld.com](radinworld.com)
 
-- 📝 I regularly write articles on [radinworld.com](radinworld.com)
-
 - 📫 How to reach me **radin@radinworld.com**
 
 <h3 align="left">Connect with me:</h3>
